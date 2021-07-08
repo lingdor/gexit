@@ -1,5 +1,5 @@
-# gexit
-graceful,safty exit your golang program.
+# gexit (graceful exit)
+graceful,safty exit for your golang program.
 
 # demo
 /
